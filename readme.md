@@ -87,7 +87,6 @@ Here are some key visualizations from the analysis:
 
 ### Mistakes Analysis Visualization
 ![Mistakes Analysis](Screenshots\Mistakes_By_Topics.png)
-Okay, let's make this sound a bit more human and less like a robot wrote it:
 
 #### Insights Summary:
 
